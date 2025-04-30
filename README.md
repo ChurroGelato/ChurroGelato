@@ -1,26 +1,17 @@
 <p align="right">
-  <img src="unb.png" alt="UNB Logo" height="50">
+  <img src="unb.png" alt="UNB Logo" height="60">
   &nbsp;&nbsp;&nbsp;
-  <img src="tum.png" alt="TUM Logo" height="50">
+  <img src="tum.png" alt="TUM Logo" height="60">
 </p>
 
+### Hi there! I'm Matheus (Matt)
 
-## Hi there! I'm Matt
+I'm a mechanical engineer with a focus on simulation engineering and computational mechanics. Currently pursuing my master's at TUM (Technische Universität München), I previously studied at the University of Brasília (UnB).
 
-I graduated as a Mechanical Engineer from UnB and now am a Computational Mechanics Master Student at TUM.
+I’m passionate about solving real-world problems through science and code. My interests include renewable energy, motorsports, high-performance computing, and systems modeling. Outside of work, I enjoy game design, volleyball, swimming, and historical studies.
 
-I keep a website fairly up to date on my work and some blog posts on things i like or thing interesting. Check it out at www.ribeirovidal.com
-<!--
-**ChurroGelato/ChurroGelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Curiosity guides my work.
 
-Here are some ideas to get you started:
+You can learn more about me at [ribeirovidal.com](https://www.ribeirovidal.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
