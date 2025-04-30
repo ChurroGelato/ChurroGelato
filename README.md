@@ -17,3 +17,10 @@ I’m passionate about solving real-world problems through science and code. My 
 You can learn more about me and my work at [ribeirovidal.com](https://www.ribeirovidal.com).
 
 ---
+<p align="center">
+<!--   <img src="oj.png" alt="OJ" height="300">
+  &nbsp;&nbsp;&nbsp; -->
+  <img src="pg2.gif" alt="PG 2" height="250">
+    &nbsp;&nbsp;
+  <img src="cbcfd2024.png" alt="CBCFD 2024" height="250">
+</p>
