@@ -1,5 +1,15 @@
-## Hi there 👋
+<p align="right">
+  <img src="unb.png" alt="UNB Logo" height="50">
+  &nbsp;&nbsp;&nbsp;
+  <img src="tum.png" alt="TUM Logo" height="50">
+</p>
 
+
+## Hi there! I'm Matt
+
+I graduated as a Mechanical Engineer from UnB and now am a Computational Mechanics Master Student at TUM.
+
+I keep a website fairly up to date on my work and some blog posts on things i like or thing interesting. Check it out at www.ribeirovidal.com
 <!--
 **ChurroGelato/ChurroGelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
