@@ -18,9 +18,9 @@ You can learn more about me and my work at [ribeirovidal.com](https://www.ribeir
 
 ---
 <p align="center">
-<!--   <img src="oj.png" alt="OJ" height="300">
-  &nbsp;&nbsp;&nbsp; -->
-  <img src="pg2.gif" alt="PG 2" height="250">
+    <img src="pg2.gif" alt="PG 2" width="750">
+<!--     &nbsp;&nbsp;
+    <img src="oj.png" alt="OJ" width="500">
     &nbsp;&nbsp;
-  <img src="cbcfd2024.png" alt="CBCFD 2024" height="250">
+    <img src="cbcfd2024.png" alt="CBCFD 2024" width="500"> -->
 </p>
