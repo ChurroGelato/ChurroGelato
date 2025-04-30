@@ -1,8 +1,13 @@
 <p align="right">
-  <img src="unb.png" alt="UNB Logo" height="60">
+  <a href="https://www.unb.br" target="_blank">
+    <img src="unb.png" alt="UNB Logo" height="60">
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="tum.png" alt="TUM Logo" height="60">
+  <a href="https://www.tum.de" target="_blank">
+    <img src="tum.png" alt="TUM Logo" height="60">
+  </a>
 </p>
+
 
 ### Hi there! I'm Matheus (Matt)
 
@@ -18,9 +23,6 @@ You can learn more about me and my work at [ribeirovidal.com](https://www.ribeir
 
 ---
 <p align="center">
+  <a href="https://ribeirovidal.com/projects/" target="_blank">
     <img src="pg2.gif" alt="PG 2" width="750">
-<!--     &nbsp;&nbsp;
-    <img src="oj.png" alt="OJ" width="500">
-    &nbsp;&nbsp;
-    <img src="cbcfd2024.png" alt="CBCFD 2024" width="500"> -->
 </p>
