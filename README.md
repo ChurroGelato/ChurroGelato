@@ -15,7 +15,7 @@ I'm a mechanical engineer with a focus on simulation engineering and computation
 
 I've also worked as a simulation engineer at the R&D division at Prysmian, developing submarine cabling systems.
 
-I’m passionate about solving real-world problems through science and code. My interests include renewable energy, motorsports, high-performance computing, and systems modeling. Outside of work, I enjoy game design, volleyball, swimming, and historical studies.
+I’m passionate about solving real-world problems through science and code. My interests include renewable energy, motorsports, high-performance computing, and systems modeling. Outside of work, I enjoy game design, volleyball, swimming, and studying history.
 
 > Curiosity guides my work.
 
