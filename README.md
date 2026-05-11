@@ -26,3 +26,7 @@ You can learn more about me and my work at [ribeirovidal.com](https://www.ribeir
   <a href="https://ribeirovidal.com/projects/" target="_blank">
     <img src="pg2.gif" alt="PG 2" width="750">
 </p>
+<p align="center">
+  <a href="https://ribeirovidal.com/projects/" target="_blank">
+    <img src="hydromechanicstum.gif" alt="HYD" width="750">
+</p>
