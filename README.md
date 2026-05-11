@@ -24,9 +24,12 @@ You can learn more about me and my work at [ribeirovidal.com](https://www.ribeir
 ---
 <p align="center">
   <a href="https://ribeirovidal.com/projects/" target="_blank">
-    <img src="pg2.gif" alt="PG 2" width="750">
-</p>
-<p align="center">
+    <img src="hydromechanicstum.gif" alt="HYD" height="258">
+  </a>
+  
   <a href="https://ribeirovidal.com/projects/" target="_blank">
-    <img src="hydromechanicstum.gif" alt="HYD" width="750">
+    <img src="pg2.gif" alt="PG 2" height="258">
+  </a>
 </p>
+
+</div>
